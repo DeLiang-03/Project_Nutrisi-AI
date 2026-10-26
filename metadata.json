@@ -1,0 +1,6 @@
+{
+  "name": "NutriBot Sahabat Anak",
+  "description": "Sistem monitoring tumbuh kembang anak berbasis analisis visual makanan & pencegahan stunting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
